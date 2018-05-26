@@ -87,6 +87,7 @@
   <ItemGroup>
     <Content Include="Img\banerShinobu.png" />
     <Content Include="Img\banner.jpg" />
+    <Content Include="Img\Calendar.jpg" />
     <Content Include="Web.config" />
     <Content Include="CntrlEncabezado.ascx" />
     <Content Include="regEventos.aspx" />
